@@ -1,4 +1,4 @@
-## Hello everyone!
+## Hello everyone! :grinning:
 
 My name is *Zoe* and I'm having a bit of a play in **GitHub**.
 
