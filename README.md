@@ -2,6 +2,8 @@
 
 My name is *Zoe* and I'm having a bit of a play in **GitHub**.
 
+For information about what I do, please see my [LinkedIn profile](https://www.linkedin.com/in/zoe-joanne-green-mcil-cl-0828a996/).
+
 #### Hobbies
 
 I love to run in parks like the one below.
