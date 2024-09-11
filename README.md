@@ -2,20 +2,11 @@
 
 My name is *Zoe* and I'm having a bit of a play in **GitHub**.
 
-~~I like hot weather~~
-Actually, I hate hot weather, I like it as cold as possible.
-
 #### Hobbies
 
-Playing around in GitHub
+I love to run in parks like the one below.
 
 ![Caffarella 1](https://github.com/user-attachments/assets/9163f27b-734d-4588-a3c7-7aa5a5c8bd54)
-
-| Rank | BEST HUSBAND |
-|-----:|---------------|
-|     1| Davide|
-|     2|  Davide            |
-|     3|  Davide             |
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/user-attachments/assets/9163f27b-734d-4588-a3c7-7aa5a5c8bd54)">
