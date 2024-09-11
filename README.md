@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello everyone!
+
+My name is *Zoe* and I'm having a bit of a play in **GitHub**.
+
+~~I like hot weather~~
+Actually, I hate hot weather, I like it as cold as possible.
+
+#### Hobbies
+
+Playing around in GitHub
 
 <!--
 **ZJOttaviani/ZJOttaviani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
