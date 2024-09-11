@@ -4,7 +4,7 @@ My name is *Zoe* and I'm having a bit of a play in **GitHub**.
 
 For information about what I do, please see my [LinkedIn profile](https://www.linkedin.com/in/zoe-joanne-green-mcil-cl-0828a996/) and the [Hobbies](https://github.com/ZJOttaviani/ZJOttaviani/edit/main/README.md#hobbies) section.
 
-> [!NOTE]
+> [!WARNING]
 > This is a work in progress.
 
 #### Hobbies
