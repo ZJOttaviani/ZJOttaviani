@@ -8,12 +8,13 @@ Actually, I hate hot weather, I like it as cold as possible.
 #### Hobbies
 
 Playing around in GitHub
+
 ![Caffarella 1](https://github.com/user-attachments/assets/9163f27b-734d-4588-a3c7-7aa5a5c8bd54)
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/user-attachments/assets/9163f27b-734d-4588-a3c7-7aa5a5c8bd54)">
  <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://github.com/user-attachments/assets/9163f27b-734d-4588-a3c7-7aa5a5c8bd54)">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="Oooh look, it's a nice park" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
 <!--
