@@ -11,7 +11,7 @@ I love to run in parks like the one below.
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/user-attachments/assets/9163f27b-734d-4588-a3c7-7aa5a5c8bd54)">
  <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://github.com/user-attachments/assets/9163f27b-734d-4588-a3c7-7aa5a5c8bd54)">
- <img alt="Oooh look, it's a nice park" src="YOUR-DEFAULT-IMAGE">
+ <img alt="Caffarella park in Rome" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
 <!--
