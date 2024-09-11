@@ -19,7 +19,7 @@ I love to run in parks like the one below.
  <img alt="Caffarella park in Rome" src="YOUR-DEFAULT-IMAGE">
 </picture>  
   
-  <br>Other hobbies include:
+  <br>Other hobbies include:<!-- I don't understand why I had to enter an HTML command to get the line break to appear here -->
 - Listening to audiobooks
 - Eating out
 - Travel
