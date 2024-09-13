@@ -12,7 +12,7 @@ For information about what I do, please see my [LinkedIn profile](https://www.li
 I love to run in parks like the one below[^1].
 [^1]: There's actually a great parkrun here on Saturday mornings.
 
-![Caffarella 1](https://github.com/user-attachments/assets/9163f27b-734d-4588-a3c7-7aa5a5c8bd54)
+![Caffarella 1](https://github.com/user-attachments/assets/9163f27b-734d-4588-a3c7-7aa5a5c8bd54 "Test")
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/user-attachments/assets/9163f27b-734d-4588-a3c7-7aa5a5c8bd54)">
