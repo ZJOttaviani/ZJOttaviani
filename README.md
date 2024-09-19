@@ -10,7 +10,7 @@ For information about what I do, please see my [LinkedIn profile](https://www.li
 #### Hobbies
 
 I love to run in parks like the one below[^1].
-[^1]: There's actually a great parkrun here on Saturday mornings.
+[^1]: There's actually a great parkrun here on Saturday mornings. Well, it's OK.
 
 ![Caffarella 1](https://github.com/user-attachments/assets/9163f27b-734d-4588-a3c7-7aa5a5c8bd54 "Test")
 
