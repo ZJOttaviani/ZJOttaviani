@@ -21,12 +21,7 @@ I love to run in parks like the one below[^1].
 - Eating out
 - Travel
 
-# I'm currently trying out GitHub Desktop for the first time.
-
-> [!Note]
-> Just playing
-
-Test2
+# I'm now testing out branches.
 
 --
 
