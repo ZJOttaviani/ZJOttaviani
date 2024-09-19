@@ -21,6 +21,13 @@ I love to run in parks like the one below[^1].
 - Eating out
 - Travel
 
+# I'm currently trying out GitHub Desktop for the first time.
+
+> [!Note]
+> Just playing
+
+--
+
 <!--
 **ZJOttaviani/ZJOttaviani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
