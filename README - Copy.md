@@ -1,4 +1,4 @@
-## Hello everyone! :grinning:
+## VS Code is driving me mad.
 
 Ooooh now we're talking!
 
