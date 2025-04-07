@@ -1,0 +1,9 @@
+title: "Zoe Test"
+loio: "ZOE-TEST"
+shortdesc: "Zoe Test"
+content category: end_user_info #This is section where a link to this documentation is rendered on the SAP Help Portal product page. Use the IXIASOFT CCMS Technical IDs outlined here: https://help.sap.com/docs/DITA_CMS_User_Guide/bba968de69fc4814b97a0da987913be1/783aa2c5e1654bdcaf4c598ff24a6efa.html
+content order weight: 1 #The higher the number, the higher the link to this documentation is displayed in the link list inside the content category section on the SAP Help Portal product page.
+
+nav: #As of here, your table of contents starts.
+  - filename: "zoe.md"
+    subnav: "faye.md"
