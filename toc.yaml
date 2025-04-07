@@ -5,5 +5,7 @@ content category: end_user_info #This is section where a link to this documentat
 content order weight: 1 #The higher the number, the higher the link to this documentation is displayed in the link list inside the content category section on the SAP Help Portal product page.
 
 nav: #As of here, your table of contents starts.
-  - filename: "zoe.md"
-    subnav: "faye.md"
+  - filename: "index.md"
+    subnav:
+    - filename: "zoe.md"
+    - filename: "faye.md"
